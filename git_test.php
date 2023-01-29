@@ -50,7 +50,7 @@ form {
     <input type="checkbox" id="vehicle2" name="vehicle[]" value="Car">
     <label for="vehicle2"> I have a car!</label>
     <input type="checkbox" id="vehicle3" name="vehicle[]" value="Boat">
-    <label for="vehicle3"> I have a Boat! Yes! But first of all, fix the bugs!</label><br>
+    <label for="vehicle3"> I have a Boat! Bugs are fixed! Bannnnng!</label><br>
 <input type="submit" value="SUBMIT" class="submit">
 </form>
 
